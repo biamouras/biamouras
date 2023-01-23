@@ -10,7 +10,10 @@ I'm Beatriz Moura, but most people call me Bia! 😊
 
 💬 Ask me about data viz (specially spatial data 😄)
 
+📈 Some dashboards:
 
+ * [Alura films](https://public.tableau.com/views/alura_films/BestProduction?:language=en-US&:display_count=n&:origin=viz_share_link) is interested in producing a new Blockbuster and wanted to identify the top movies and movie stars to contract and use as reference.
+ * [Alura pets](https://public.tableau.com/views/alura_pets/FaturamentodaAluraPets?:language=en-US&:display_count=n&:origin=viz_share_link) wants to expand its store network and asked to identify the possible neighborhoodsto open a new store.
 <!--
 **biamouras/biamouras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
